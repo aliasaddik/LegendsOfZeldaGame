@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 4cc5d42a99031144db6d31d803e7285e
+  - enabled: 1
+    path: Assets/Scenes/GameOver.unity
+    guid: cdc69474e8eae9b4fb24ad9f80cd634b
+  - enabled: 1
+    path: Assets/Sun_Temple/Scenes/OverWorldScene.unity
+    guid: d8f213b28287d8b4dab42cf4a34f94e5
+  - enabled: 1
+    path: Assets/Sun_Temple/Scenes/ShrineScene.unity
+    guid: 5390fb91703651242984f074329c06c5
+  - enabled: 1
+    path: Assets/Scenes/FallingScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Sun_Temple/Scenes/BossScene.unity
+    guid: a838beabcad15254082bf48ab520e64e
+  m_configObjects: {}
